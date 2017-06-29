@@ -286,6 +286,8 @@ footer {
 
 body {
     background-image: url("http://www.planwallpaper.com/static/images/6790904-free-background-wallpaper.jpg");
+	background-repeat: no-repeat;
+    	background-position: right top;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
